@@ -65,7 +65,8 @@ xxd .pes/objects/XX/YYY... | head -20
 
 ### Screenshot 3B: `cat .pes/index`
 
-<img width="775" height="711" alt="image" src="https://github.com/user-attachments/assets/866443fb-a8c5-47b5-9f22-8325c0b628ba" />
+<img width="875" height="271" alt="image" src="https://github.com/user-attachments/assets/446d39ea-29d5-4978-a085-c31b09c4568c" />
+
 
 
 ---
